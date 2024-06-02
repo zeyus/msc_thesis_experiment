@@ -3,7 +3,7 @@ Welcome to my repository showing the PsychoPy code and material used for the EEG
 
 ## Below is a demo demonstrating the trial block which includes one instance of each condition type.
 
-https://github.com/KathrineSN/thesis_experiment/assets/46521720/cb6e6318-19c3-49e1-ad56-fdbab41bb31c
+https://github.com/KathrineSN/msc_thesis_experiment/assets/46521720/cb6e6318-19c3-49e1-ad56-fdbab41bb31c
 
 
 
