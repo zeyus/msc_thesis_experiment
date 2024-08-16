@@ -1,0 +1,6 @@
+data/
+*_lastrun.py
+*.csv
+debug.txt
+__pycache__/
+*_legacy.psyexp
